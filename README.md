@@ -13,7 +13,6 @@
       <main>
         <aside>
           <h3>My sites:</h3>
-          <ol>
             <li>
               <a href-"https://www.w3schols.com">w3schools</a>
             </li>
@@ -30,11 +29,6 @@
         <footer>
           <p>
             has a mane
-            <ul>
-              <li></ul>
-           <li></ul>
-             <li></ul>
-          </ul>
           </p>
         </footer>
       </main> 
