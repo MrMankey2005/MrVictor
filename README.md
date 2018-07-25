@@ -2,11 +2,27 @@
   <head>
   </head>
   <body>
-    <header>
+    <nav>
       about me
-    </header>
+      <nav/>
+    <header>
   <H1>
     Hello world!
   </H1>
+      </header>
+      <main>
+        <aside>
+          <H3My websites:</H3>
+          <ol>
+            <li>w3schools.com</li>
+            <li>google.com</li>
+          </ol>
+          </aside>
+        <article>
+        </article>
+        <footer>
+        </footer>
+      </main> 
   </body>
 </html>
+  
