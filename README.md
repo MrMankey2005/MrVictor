@@ -6,9 +6,9 @@
       about me
       </nav>
     <header>
-  <H1>
-    Hello world!
-  </H1>
+      <H1>
+        Hello world!
+      </H1>
       </header>
       <main>
         <aside>
@@ -19,8 +19,15 @@
           </ol>
           </aside>
         <article>
+          <H2>Once I fell down<H2>
+            <p>
+              Once I tripped and fell down
+            </p>
         </article>
         <footer>
+          <p>
+            When I fell I flew down te stairs
+          </p>
         </footer>
       </main> 
   </body>
