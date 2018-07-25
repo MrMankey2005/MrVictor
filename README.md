@@ -14,10 +14,10 @@
         <aside>
           <h3>My sites:</h3>
             <li>
-              <a href-"https://www.w3schols.com">w3schools</a>
-            </li>
-            <a href-"https://www.google.com">google</a>
-            <li>google.com</li>
+              <a href-"https://www.w3schols.com"></a>
+            
+            <a href-"https://www.google.com">g</a>
+            
           </li>
           </aside>
         <article>
