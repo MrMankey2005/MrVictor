@@ -15,10 +15,11 @@
           <h3>My sites:</h3>
           <ol>
             <li>
-              <a href-"www.w3schols.com">w3schools</a>
+              <a href-"https://www.w3schols.com">w3schools</a>
             </li>
+            <a href-"https://www.google.com">google</a>
             <li>google.com</li>
-          </ol>
+          </li>
           </aside>
         <article>
           <H2>Once I saw a lion<H2>
