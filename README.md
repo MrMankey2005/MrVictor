@@ -4,7 +4,7 @@
   <body>
     <nav>
       about me
-      <nav/>
+      </nav>
     <header>
   <H1>
     Hello world!
@@ -12,7 +12,7 @@
       </header>
       <main>
         <aside>
-          <H3>My sites:</H3>
+          <h3>My sites:</h3>
           <ol>
             <li>w3schools.com</li>
             <li>google.com</li>
