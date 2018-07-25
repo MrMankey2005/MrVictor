@@ -12,7 +12,7 @@
       </header>
       <main>
         <aside>
-          <H3My websites:</H3>
+          <H3>My sites:</H3>
           <ol>
             <li>w3schools.com</li>
             <li>google.com</li>
