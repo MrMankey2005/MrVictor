@@ -14,19 +14,26 @@
         <aside>
           <h3>My sites:</h3>
           <ol>
-            <li>w3schools.com</li>
+            <li>
+              <a href-"www.w3schols.com">w3schools</a>
+            </li>
             <li>google.com</li>
           </ol>
           </aside>
         <article>
-          <H2>Once I fell down<H2>
+          <H2>Once I saw a lion<H2>
             <p>
-              Once I tripped and fell down
+              yellow
             </p>
         </article>
         <footer>
           <p>
-            When I fell I flew down te stairs
+            has a mane
+            <ul>
+              <li></ul>
+           <li></ul>
+             <li></ul>
+          </ul>
           </p>
         </footer>
       </main> 
